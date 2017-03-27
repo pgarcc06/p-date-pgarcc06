@@ -1,4 +1,4 @@
 package es.unileon.prg1.date;
 
-public class date{
+public class Date{
 }
